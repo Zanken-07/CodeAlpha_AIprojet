@@ -1,0 +1,13 @@
+#TACHE 1
+#TACHE 2
+#TACHE 3
+#TACHE 4
+# Environnement virtuel local
+.venv/
+# Modèles d'IA lourds
+*.pt
+# Fichiers générés lors de l'exécution
+__pycache__/
+runs/
+# Configuration locale de l'éditeur
+.vscode/
